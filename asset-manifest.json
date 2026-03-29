@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-interview-/static/css/main.1a9a718c.css",
+    "main.js": "/smart-interview-/static/js/main.bc503b68.js",
+    "index.html": "/smart-interview-/index.html",
+    "main.1a9a718c.css.map": "/smart-interview-/static/css/main.1a9a718c.css.map",
+    "main.bc503b68.js.map": "/smart-interview-/static/js/main.bc503b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a718c.css",
+    "static/js/main.bc503b68.js"
+  ]
+}
